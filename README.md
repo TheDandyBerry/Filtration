@@ -1,10 +1,10 @@
-# Filtration
+# Filtration-fork
 
 Filtration is an editor for Path of Exile item filter scripts.
 
-## Current Release (Released 2019-09-11)
+## Current Release (Released 2020 Nov 07)
 <b>Installer</b><br>
-<a href="https://github.com/ben-wallis/Filtration/releases/download/1.2.2/Setup.exe">Setup.exe</a>
+<a href="https://github.com/TheDandyBerry/Filtration-fork/releases/download/1.3.0/Filtration-installer.msi">Setup.exe</a>
 
 ## System Requirements
 Filtration requires .NET Framework 4.6.1 installed.
