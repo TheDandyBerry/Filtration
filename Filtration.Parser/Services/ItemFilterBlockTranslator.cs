@@ -357,7 +357,7 @@ namespace Filtration.Parser.Services
 
                         // TODO: Get size, color, shape values programmatically
                         var match = Regex.Match(trimmedLine,
-                            @"\S+\s+(0|1|2)\s+(Red|Green|Blue|Brown|White|Yellow|Cyan|Grey|Orange|Pink|Purple)\s+(Circle|Diamond|Hexagon|Square|Star|Triangle|Cross|Moon|Tear|Kite|Pentagon|UpsideDownHouse)\s*([#]?)(.*)",
+                            @"\S+\s+(0|1|2)\s+(Red|Green|Blue|Brown|White|Yellow|Cyan|Grey|Orange|Pink|Purple)\s+(Circle|Diamond|Hexagon|Square|Star|Triangle|Cross|Moon|Raindrop|Kite|Pentagon|UpsideDownHouse)\s*([#]?)(.*)",
                             RegexOptions.IgnoreCase);
 
                         if (match.Success)

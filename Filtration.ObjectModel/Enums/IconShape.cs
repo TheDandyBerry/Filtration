@@ -26,8 +26,8 @@ namespace Filtration.ObjectModel.Enums
         Cross,
         [Description("Moon")]
         Moon,
-        [Description("Tear")]
-        Tear,
+        [Description("Raindrop")]
+        Raindrop,
         [Description("Kite")]
         Kite,
         [Description("Pentagon")]
