@@ -350,6 +350,16 @@ namespace Filtration.ObjectModel
                             return Colors.White;
                         case EffectColor.Yellow:
                             return Colors.Yellow;
+                        case EffectColor.Cyan:
+                            return Colors.Cyan;
+                        case EffectColor.Grey:
+                            return Colors.DarkGray;
+                        case EffectColor.Orange:
+                            return Colors.Orange;
+                        case EffectColor.Pink:
+                            return Colors.Pink;
+                        case EffectColor.Purple:
+                            return Colors.Purple;
                     }
                 }
 

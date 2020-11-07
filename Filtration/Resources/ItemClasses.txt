@@ -1,59 +1,67 @@
-Abyss Jewel
-Active Skill Gems
-Amulets
-Axes
-Belts
-Body Armours
-Boots
-Bows
-Claws
-Currency
-Daggers
-Delve Socketable Currency
-Delve Stackable Socketable Currency
-Divination Card
-Fishing Rods
-Flasks
-Gems
-Gloves
-Helmets
-Hybrid Flasks
-Incubator
-Incursion Item
-Jewel
-Labyrinth Item
-Labyrinth Map Item
-Labyrinth Trinket
-Large Relics
-Leaguestones
 Life Flasks
-Maces
 Mana Flasks
-Map Fragments
-Maps
-Medium Relics
-Misc Map Items
+Hybrid Flasks
+Currency
+Amulets
+Rings
+Claws
+Daggers
+Wands
+One Hand Swords
+Thrusting One Hand Swords
 One Hand Axes
 One Hand Maces
-One Hand Swords
-Pantheon Soul
-Piece
-Quest Items
-Quivers
-Relics
-Rings
-Rune Dagger
-Sceptres
-Shields
-Small Relics
-Stackable Currency
+Bows
 Staves
-Support Skill Gems
-Swords
-Thrusting One Hand Swords
+Two Hand Swords
 Two Hand Axes
 Two Hand Maces
-Two Hand Swords
+Active Skill Gems
+Support Skill Gems
+Quivers
+Belts
+Gloves
+Boots
+Body Armours
+Helmets
+Shields
+Stackable Currency
+Quest Items
+Sceptres
 Utility Flasks
-Wands
-Warstaff
+Critical Utility Flasks
+Maps
+Fishing Rods
+Map Fragments
+Hideout Doodads
+Microtransactions
+Jewel
+Divination Card
+Labyrinth Item
+Labyrinth Trinket
+Labyrinth Map Item
+Misc Map Items
+Leaguestones
+Pantheon Soul
+Piece
+Abyss Jewel
+Incursion Item
+Delve Socketable Currency
+Incubator
+Shard
+Shard Heart
+Rune Daggers
+Warstaves
+Delve Stackable Socketable Currency
+Atlas Region Upgrade Item
+Metamorph Sample
+Harvest Seed
+Seed Enhancer
+Contract
+Heist Gear
+Heist Tool
+Heist Cloak
+Heist Brooch
+Blueprint
+Trinkets
+Heist Target

@@ -17,8 +17,8 @@ namespace Filtration.Converters
 		private static readonly int startRow = 3;
 		private static readonly int emptyColumn = 2;
 		private static readonly int emptyRow = 11;
-		private static readonly int colorCount = 6;
-		private static readonly int shapeCount = 6;
+		private static readonly int colorCount = 11;
+		private static readonly int shapeCount = 12;
 		private static readonly int sizeCount = 3;
 
 		private static readonly Uri uri;
