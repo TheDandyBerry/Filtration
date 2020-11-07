@@ -39,7 +39,7 @@
     <StartupObject>Filtration.App</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Resources\filtration.ico</ApplicationIcon>
+    <ApplicationIcon>filtration.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Releasify|AnyCPU'">
     <OutputPath>bin\Releasify\</OutputPath>
@@ -346,6 +346,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Resource Include="TextTemplate.ico" />
     <EmbeddedResource Include="Resources\Enchantments.txt" />
     <Resource Include="Resources\Icons\no_sound_dds_light.png" />
     <Resource Include="Resources\Icons\no_sound_dds.png" />
@@ -359,6 +360,7 @@
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
+    <Resource Include="filtration.ico" />
     <Content Include="LICENSE.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>

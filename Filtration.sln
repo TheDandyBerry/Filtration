@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtration", "Filtration\Filtration.csproj", "{55E0A34C-E039-43D7-A024-A4045401CDDA}"
 EndProject
@@ -34,6 +34,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtration.ItemFilterPreview.Data", "Filtration.ItemFilterPreview.Data\Filtration.ItemFilterPreview.Data.csproj", "{855B38CC-EEF2-471D-BBBC-EB3E2FF3D387}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Filtration.ItemFilterPreview.Data.Tests", "Filtration.ItemFilterPreview.Data.Tests\Filtration.ItemFilterPreview.Data.Tests.csproj", "{7A5720DE-A41B-47EA-AAAB-7C5608FF0C1F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Filtration-fork", "Filtration-fork\Filtration-fork.vdproj", "{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -428,6 +430,18 @@ Global
 		{7A5720DE-A41B-47EA-AAAB-7C5608FF0C1F}.SquirrelReleasify|x64.Build.0 = Release|Any CPU
 		{7A5720DE-A41B-47EA-AAAB-7C5608FF0C1F}.SquirrelReleasify|x86.ActiveCfg = Release|Any CPU
 		{7A5720DE-A41B-47EA-AAAB-7C5608FF0C1F}.SquirrelReleasify|x86.Build.0 = Release|Any CPU
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Debug|Any CPU.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Debug|ARM.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Debug|x64.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Debug|x86.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Release|Any CPU.ActiveCfg = Release
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Release|ARM.ActiveCfg = Release
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Release|x64.ActiveCfg = Release
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.Release|x86.ActiveCfg = Release
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.SquirrelReleasify|Any CPU.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.SquirrelReleasify|ARM.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.SquirrelReleasify|x64.ActiveCfg = Debug
+		{CF122BF5-5FB3-46B6-9B2B-9570C83DD398}.SquirrelReleasify|x86.ActiveCfg = Debug
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
